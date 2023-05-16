@@ -1,0 +1,28 @@
+.entry-form{
+    position: absolute;
+    left: 35%;
+    top:30%;
+}
+.measurement-choice{
+    position: relative;
+    padding: 4%;
+    
+}
+.gender-choice{
+    position: relative;
+    padding: 2%;
+}
+.Metric-choice{
+    position: relative;
+    padding: 2%;
+}
+.but{
+    width: 40%;
+    top: 5%;
+}
+.result{
+    position: absolute;
+    top:70%;
+    left:60%;
+    width: 20%;
+}
